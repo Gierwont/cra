@@ -2,7 +2,7 @@ import './App.css';
 // import ItemsList from './components/ItemsList';
 import NewItem from './components/NewItem';
 import Item from './components/item';
-import ItemList from './components/ItemList';
+import ItemList from './components/Item List';
 
 
   // return (
